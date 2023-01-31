@@ -17,6 +17,8 @@ Once you're done, run "terraform destroy"
 
 ## Sample of terraform.tfvars
 
+```
 AWS_ACCESS_KEY = ""
 AWS_SECRET_KEY = ""
 AWS_REGION = "us-east-1"
+```
